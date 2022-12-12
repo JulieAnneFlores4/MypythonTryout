@@ -1,5 +1,3 @@
-#Python Program to Make a Simple Calculator
-
 def Multiplication(num1, num2):
     return num1 * num2
 
